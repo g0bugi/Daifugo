@@ -1,0 +1,634 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Daifugo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|c:\\users\\user\\daifugo\\assets\\scripts\\card\\cardsubmissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card\\cardsubmissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\card\\hierarchyexchangecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card\\hierarchyexchangecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\roundconstraintservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\roundconstraintservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\followupselectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\followupselectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\card\\effectprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card\\effectprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\resultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\roundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\roundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\visual\\resultscreenview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\visual\\resultscreenview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\visual\\presentationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\visual\\presentationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\gamekeyboardinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamekeyboardinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\visual\\playerseatinfoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\visual\\playerseatinfoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\ui\\aidelaysliderui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\aidelaysliderui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\gamesceneuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamesceneuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\managers\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\enumsandstructs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enumsandstructs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\card\\deckfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card\\deckfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\visual\\cardmovepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\visual\\cardmovepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\visual\\presentationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\visual\\presentationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\visual\\resultrowview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\visual\\resultrowview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\visual\\centermessageview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\visual\\centermessageview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\visual\\gamestatusview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\visual\\gamestatusview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\visual\\tableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\visual\\tableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\visual\\handview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\visual\\handview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\visual\\cardview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\visual\\cardview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\card\\carddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card\\carddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\tablestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tablestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\managers\\turnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\turnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\roundstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\roundstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\visual\\cardspritelibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\visual\\cardspritelibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\ai\\aimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\aimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\selectablecardupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\selectablecardupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\combinationresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combinationresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\cardeffectanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cardeffectanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\rankcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rankcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\managers\\rulemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\rulemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\followupresolveresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\followupresolveresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|C:\\Users\\User\\Daifugo\\assets\\scripts\\player\\playerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E189574-7AE7-19F5-0E60-3CE2FFB840AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CardSpriteLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Visual\\CardSpriteLibrary.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Visual\\CardSpriteLibrary.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Visual\\CardSpriteLibrary.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Visual\\CardSpriteLibrary.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T01:48:45.995Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PlayerState.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Player\\PlayerState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerState.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Player\\PlayerState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerState.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAwNsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T04:55:56.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Managers\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\GameManager.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Managers\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T07:11:15.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CardSubmissionService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Card\\CardSubmissionService.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Card\\CardSubmissionService.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Card\\CardSubmissionService.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Card\\CardSubmissionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T15:36:43.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoundService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\RoundService.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RoundService.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\RoundService.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RoundService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T15:43:38.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResultService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\ResultService.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ResultService.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\ResultService.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ResultService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T15:51:16.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EffectProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Card\\EffectProcessor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Card\\EffectProcessor.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Card\\EffectProcessor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Card\\EffectProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T15:26:09.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FollowUpSelectionController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\FollowUpSelectionController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FollowUpSelectionController.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\FollowUpSelectionController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FollowUpSelectionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T14:28:14.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoundConstraintService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\RoundConstraintService.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RoundConstraintService.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\RoundConstraintService.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RoundConstraintService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T14:37:24.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FollowUpResolveResult.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\FollowUpResolveResult.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FollowUpResolveResult.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\FollowUpResolveResult.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FollowUpResolveResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T14:27:32.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HierarchyExchangeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Card\\HierarchyExchangeController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Card\\HierarchyExchangeController.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Card\\HierarchyExchangeController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Card\\HierarchyExchangeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:13:21.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RuleManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Managers\\RuleManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\RuleManager.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Managers\\RuleManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\RuleManager.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAADwv0oBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T06:13:58.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RankComparer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\RankComparer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RankComparer.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\RankComparer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RankComparer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T16:04:27.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CardEffectAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\CardEffectAnalyzer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CardEffectAnalyzer.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\CardEffectAnalyzer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CardEffectAnalyzer.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAYwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T16:05:35.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CombinationResolver.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\CombinationResolver.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CombinationResolver.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\CombinationResolver.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CombinationResolver.cs",
+              "ViewState": "AgIAANcBAAAAAAAAAAAwwPgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T16:14:29.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SelectableCardUpdater.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\SelectableCardUpdater.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SelectableCardUpdater.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\SelectableCardUpdater.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SelectableCardUpdater.cs",
+              "ViewState": "AgIAAFgCAAAAAAAAAAAYwHQDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T16:21:43.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AIManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\AI\\AIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\AIManager.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\AI\\AIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\AIManager.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAmwPECAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T04:36:10.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RoundState.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\RoundState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RoundState.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\RoundState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RoundState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T05:23:04.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TurnManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Managers\\TurnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\TurnManager.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Managers\\TurnManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\TurnManager.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAADwv3oAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T06:29:04.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TableState.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\TableState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TableState.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\TableState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TableState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T05:02:44.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CardData.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Card\\CardData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Card\\CardData.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Card\\CardData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Card\\CardData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T04:26:49.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CardView.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Visual\\CardView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Visual\\CardView.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Visual\\CardView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Visual\\CardView.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADwv0IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T07:34:51.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HandView.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Visual\\HandView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Visual\\HandView.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Visual\\HandView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Visual\\HandView.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAADwvxIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T08:37:36.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TableView.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Visual\\TableView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Visual\\TableView.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Visual\\TableView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Visual\\TableView.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAADwv2QAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:33:19.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerSeatInfoView.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Visual\\PlayerSeatInfoView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Visual\\PlayerSeatInfoView.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Visual\\PlayerSeatInfoView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Visual\\PlayerSeatInfoView.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAPoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T16:54:35.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GameStatusView.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Visual\\GameStatusView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Visual\\GameStatusView.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Visual\\GameStatusView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Visual\\GameStatusView.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAADwv7cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T07:15:11.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CenterMessageView.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Visual\\CenterMessageView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Visual\\CenterMessageView.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Visual\\CenterMessageView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Visual\\CenterMessageView.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvzkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:26:04.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ResultRowView.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Visual\\ResultRowView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Visual\\ResultRowView.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Visual\\ResultRowView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Visual\\ResultRowView.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T09:06:39.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResultScreenView.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Visual\\ResultScreenView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Visual\\ResultScreenView.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Visual\\ResultScreenView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Visual\\ResultScreenView.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAUwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T09:06:13.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AIDelaySliderUI.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\UI\\AIDelaySliderUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\AIDelaySliderUI.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\UI\\AIDelaySliderUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\AIDelaySliderUI.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T17:31:49.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PresentationController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Visual\\PresentationController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Visual\\PresentationController.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Visual\\PresentationController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Visual\\PresentationController.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAkwM4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:20:54.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PresentationEvent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Visual\\PresentationEvent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Visual\\PresentationEvent.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Visual\\PresentationEvent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Visual\\PresentationEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:22:00.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CardMovePresenter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Visual\\CardMovePresenter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Visual\\CardMovePresenter.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Visual\\CardMovePresenter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Visual\\CardMovePresenter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:42:54.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GameSceneUIController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\GameSceneUIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameSceneUIController.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\GameSceneUIController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameSceneUIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T09:05:50.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameKeyboardInput.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\GameKeyboardInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameKeyboardInput.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\GameKeyboardInput.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameKeyboardInput.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAABewCwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T06:50:39.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DeckFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Card\\DeckFactory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Card\\DeckFactory.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Card\\DeckFactory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Card\\DeckFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T05:30:21.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Managers\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\SoundManager.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\Managers\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\SoundManager.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAuwG0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T02:15:22.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EnumsAndStructs.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\EnumsAndStructs.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnumsAndStructs.cs",
+              "ToolTip": "C:\\Users\\User\\Daifugo\\Assets\\Scripts\\EnumsAndStructs.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnumsAndStructs.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAwwKUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T01:24:27.584Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
